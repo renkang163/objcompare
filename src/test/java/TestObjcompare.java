@@ -1,5 +1,4 @@
 import com.rk.beans.People;
-import com.rk.beans.People1;
 import com.rk.service.ObjService;
 import com.rk.serviceImpl.ObjServiceImpl;
 import org.junit.Test;

@@ -21,6 +21,7 @@ public class TestObjcompare {
 
         ObjService objService = new ObjServiceImpl();
         String mark = objService.changeData(p2, p1);
+
         System.out.println(mark);
     }
 }
